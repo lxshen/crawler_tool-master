@@ -2,6 +2,7 @@
 import redis
 from hashlib import md5
 
+
 class SimpleHash(object):
     def __init__(self, cap, seed):
         self.cap = cap
