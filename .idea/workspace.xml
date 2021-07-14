@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deaae6d5-3ad9-433b-a2a5-7c08c7ed974f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crawler_tool/reques_tool.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler_tool/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_tool/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler_tool/bloomfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_tool/bloomfilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/crawler_tool/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/crawler_tool/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/crawler_tool/bloomfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/crawler_tool/bloomfilter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taobao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -187,6 +186,7 @@
       <workItem from="1625620452861" duration="1644000" />
       <workItem from="1625638006163" duration="217000" />
       <workItem from="1626060149379" duration="10578000" />
+      <workItem from="1626228848856" duration="2455000" />
     </task>
     <servers />
   </component>
